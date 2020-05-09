@@ -107,3 +107,11 @@ form textarea{
 .mail{
     padding-bottom: 30px;
 }
+
+::placeholder,
+.mail {
+    color: #fff;
+}
+::placeholder{
+    font-size: 10px;
+}
