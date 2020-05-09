@@ -44,18 +44,32 @@
 /* About us styling */
 
 #about{
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 h1{
     font-family: 'Akronim';
 }
 
-.second{
-    font-family: 'Almendra';
-}
-
 p{
     font-family: Almendra
 }
+
+/* Services */
+#services{
+    background-image: url("../Images/backgrounds/s_image.jpg");
+    background-repeat: no-repeat;
+    color: #fffafa;
+    background-position: center;
+    padding-top: 120px;
+    padding-bottom: 80px;
+}
+/* What we do section */
+
+/* Portfolio section */
+.card-deck {
+    padding: 1% 4%;
+}
+
+/* Contaxt Us */
