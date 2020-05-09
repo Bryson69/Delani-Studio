@@ -1,6 +1,6 @@
 /* LANDING PAGE STYLING */
 @import url("https://fonts.googleapis.com/css?family=Cute+Font|Almendra");
-@import url("https://fonts.googleapis.com/css?family=Akronim");
+@import url("https://fonts.googleapis.com/css?family=Amita");
 * {
     box-sizing: border-box;
     margin: 0;
@@ -19,7 +19,7 @@
 }
 
 #one {
-    font-family: Akronim;
+    font-family: "Amita";
     color: #fffafa;
 }
 
@@ -49,7 +49,8 @@
 }
 
 h1{
-    font-family: 'Akronim';
+    font-family: 'Amita';
+    font-weight: 700;
 }
 
 p{
@@ -73,3 +74,14 @@ p{
 }
 
 /* Contaxt Us */
+#contact{
+    background-image: url("../Images/backgrounds/c_image.jpg");
+    background-size: cover;
+    margin-bottom: 50px;
+    padding-top: 100px;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 10%;
+
+
+}
