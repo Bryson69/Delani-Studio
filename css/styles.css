@@ -1,0 +1,14 @@
+/* LANDING PAGE STYLING */
+@import url("https://fonts.googleapis.com/css?family=Cute+Font|Almendra");
+@import url("https://fonts.googleapis.com/css?family=Akronim");
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#head{
+    background-image: url("../images/backgrounds/h_img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
