@@ -12,3 +12,21 @@
     background-size: cover;
     position: relative;
 }
+
+#one{
+    padding-top: 14%;
+    margin-bottom: 9%;
+}
+
+#one {
+    font-family: Akronim;
+    color: #fffafa;
+}
+
+#desc{
+    font-family: Almendra;
+    font-style: italic;
+    font-weight: 700;
+    font-size: large;
+    color: #fffafa;
+}
