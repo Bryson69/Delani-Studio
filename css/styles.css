@@ -73,6 +73,31 @@ p{
     padding: 1% 4%;
 }
 
+.card{
+    position: relative;
+    margin: 10px 0px;
+    overflow: hidden;
+}
+
+.card:hover img{
+    transform: scale(1,2);
+    transition: all 0.5s;
+}
+
+.card-1{
+    width: 100px;
+    position: absolute;
+    min-height: 100%;
+    display: none;
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.582);
+    transition: all 0.9s;
+}
+
+.ptag{
+    margin: 20% 5%;
+    
+}
 /* Contaxt Us */
 #contact{
     background-image: url("../Images/backgrounds/c_image.jpg");
