@@ -79,17 +79,19 @@ p{
     display: none;
 }
 /* Portfolio section */
-.portfolio{
+.portfolio img{
     width: 100%;
 }
+
 .card-deck {
     padding: 1% 4%;
 }
 
 .card{
     position: relative;
-    margin: 10px 0px;
+    margin: 10px 10px;
     overflow: hidden;
+    cursor: pointer;
 }
 
 .card:hover img{
@@ -98,23 +100,21 @@ p{
 }
 
 .card-1{
-    width: 100px;
+    width: 300px;
     position: absolute;
     min-height: 100%;
     display: none;
-    cursor: pointer;
     background: rgba(0, 0, 0, 0.582);
     transition: all 0.4s;
 }
 
-.reveal {
-    margin: 20% 5%;
-    padding: 5% 0%;
+.reveal{
+    border: 5px solid white;
+    margin: 70% 1%;
     padding: 50px 10px;
     padding-top: 30px;
-    border: 4px solid white;
-    background-color: #fff;
     line-height: 90%;
+    transform: translate(30%);
     letter-spacing: 2px;
     overflow: hidden;
     color: snow;
