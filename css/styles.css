@@ -78,6 +78,10 @@ p{
 .drop{
     display: none;
 }
+
+h5{
+    font-family: "Amita";
+}
 /* Portfolio section */
 .portfolio img{
     width: 100%;
@@ -141,6 +145,8 @@ p{
     font-family: "Amita";
 }
 
+
+
 .form{
     width: 700px;
     max-width: 100%;
@@ -172,6 +178,8 @@ form textarea{
 ::placeholder{
     font-size: 10px;
 }
+
+
 
 /* links */
 .social img {
