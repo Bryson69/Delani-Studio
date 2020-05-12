@@ -11,7 +11,7 @@ $(".card").hover(function () {
 // 
 $("button").click(function (Bryson) {
     var client = document.getElementById('nameDetail').value;
-    alert(' Dear ' + ' customer ' + ' we have received your message successfully. ' + ' reach out to us anytime');
+    alert(' Dear ' + ' customer ' + ' we have received your message successfully. ' + ' Reach out to us anytime');
     Bryson.preventDefault();
   });
 //   button
