@@ -1,4 +1,4 @@
-# DELANI STUDIOS
+## DELANI STUDIOS
 ### 
 #### By **Bryson Mundia**
 ## Description
