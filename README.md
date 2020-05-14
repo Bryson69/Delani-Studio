@@ -32,7 +32,7 @@ To fix a bug or enhance an existing module, follow these steps:
 - TerminalCLI(Command Line Interface)
 
 
-Link to the site 
+Link to the site : https://bryson69.github.io/Delani-Studio/
 
 
 ### License
